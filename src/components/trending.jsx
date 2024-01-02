@@ -11,7 +11,7 @@ const trending = () => {
       <div dir='ltr'>
       <div class="overflow-x-auto scrollbar-hide">
 
-          <div class="flex flex-nowrap scroll-snap-type-x-mandatory">
+          <div class="flex flex-nowrap scroll-snap-type-x-mandatory mt-4 ml-10">
 
             <div class="scroll-snap-align-start flex-none w-72 h-52 bg-gray-500 m-2 rounded-2xl"></div>
             <div class="scroll-snap-align-start flex-none w-72 h-52 bg-gray-500 m-2 rounded-2xl"></div>
