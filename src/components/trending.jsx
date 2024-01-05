@@ -106,7 +106,7 @@ const trending = () => {
                                     
                       <div className='scroll-snap-align-start -mt-16 h-[64px] w-72 rounded-b-2xl py-2'>
 
-                        <div className='relative z-10 -mt-2 h-[64px] w-72 rounded-b-2xl bg-white py-2 '>
+                        <div className='relative -mt-2 h-[64px] w-72 rounded-b-2xl bg-white py-2 '>
 
                             <h5 className='text-teal-700 font-medium px-4 cursor-pointer hover:text-teal-900'>{object.title}</h5>
                             <div className='flex px-4'>
