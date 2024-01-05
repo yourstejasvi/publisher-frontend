@@ -6,11 +6,15 @@ import Trending from "./components/trending";
 import TopCreators from "./components/top_creators";
 import SuccessStories from "./components/success_stories";
 import Footer from "./components/footer";
+import Popup from "./components/popup";
 
 function App() {
   return (
     <div>
 
+
+
+      < Popup />
       < Navigation />
       < Links />
       < Latest />
@@ -18,6 +22,7 @@ function App() {
       < TopCreators />
       < SuccessStories />
       < Footer />
+      
 
     </div>
   );
